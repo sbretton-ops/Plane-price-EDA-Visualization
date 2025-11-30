@@ -1,0 +1,15 @@
+# Fichiers cruciaux pour la sécurité (à ne JAMAIS envoyer)
+.env
+
+# Fichiers et dossiers d'environnement
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers spécifiques à l'IDE (VS Code)
+.vscode/
